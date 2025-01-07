@@ -10,12 +10,13 @@ I'm a dedicated Full-Stack Developer with a passion for building innovative and 
 - 🎓 Pursuing a degree in Computer Science with a focus on Artificial Intelligence
 - I use Arch, btw ツ
 
-##🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
+
  `Next.js`, `React`, `TypeScript`, `Django`,
   `Node.js`, `Docker`, `Express.js`, `PostgreSQL`, `MongoDB`
 
 
-##📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tondeee&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tondeee&theme=dark" alt="GitHub Streak" />
