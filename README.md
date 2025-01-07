@@ -1,4 +1,3 @@
-<img src="https://github.com/tondeee.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Dmytro Yunko
 ### Full-Stack Developer
