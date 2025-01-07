@@ -22,6 +22,6 @@ I'm a dedicated Full-Stack Developer with a passion for building innovative and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tondeee&theme=dark" alt="GitHub Streak" />
 </p>
 
-##🤝 **Connect With Me**
+## 🤝 **Connect With Me**
 - [GitHub](https://github.com/tondeee)
 - [LinkedIn](https://www.linkedin.com/in/dmytro-yunko-929228253/)
