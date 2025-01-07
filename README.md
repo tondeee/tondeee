@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6de386&width=435&lines=Full-Stack+Developer+)](https://git.io/typing-svg)
 
 🛠️ **Tech Stack**
-- Advanced: `Next.js`, `React`, `TypeScript`, `Django`
-- Intermediate: `Node.js`, `Docker`, `Express.js`, `PostgreSQL`, `MongoDB`
+ `Next.js`, `React`, `TypeScript`, `Django`,
+  `Node.js`, `Docker`, `Express.js`, `PostgreSQL`, `MongoDB`
 
 
 📊 **GitHub Stats**
