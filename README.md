@@ -23,5 +23,4 @@ I'm a dedicated Full-Stack Developer with a passion for building innovative and 
 </p>
 
 ## 🤝 **Connect With Me**
-- [GitHub](https://github.com/tondeee)
 - [LinkedIn](https://www.linkedin.com/in/dmytro-yunko-929228253/)
